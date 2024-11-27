@@ -1,4 +1,5 @@
 # Key Trainer
+![Preview](preview.png)
 
 Simple trainer application using Python's Tkinter library. This program is designed for gamers who want to improve their muscle memory, keystroke speed, and overall finger dexterity, specifically for the W, A, S, D and Ctrl, Shift keys.
 
